@@ -78,4 +78,5 @@ document.getElementById('sendReservation').addEventListener('click',()=>{const n
 const panel=document.getElementById('moxi-panel');document.getElementById('moxi-launcher').addEventListener('click',()=>panel.classList.toggle('open'));document.getElementById('moxi-close').addEventListener('click',()=>panel.classList.remove('open'));
 document.querySelectorAll('#moxi-body [data-answer]').forEach(b=>b.addEventListener('click',()=>document.getElementById('moxi-answer').textContent=b.dataset.answer));
 render();
-</script></body></html>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script></body></html>
+<scrip src="./supabase-config.js"></scrip>

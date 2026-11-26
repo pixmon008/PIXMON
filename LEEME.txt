@@ -1,0 +1,4 @@
+PIXMON - prototipo de navegación actualizado
+Abre index.html con Chrome.
+Las galerías creadas se guardan localmente en este navegador; no se sincronizan ni son visibles en otros dispositivos.
+Esta versión no procesa pagos, cuentas reales ni carga de fotografías. El panel de administración es una demostración sin contraseña segura.
